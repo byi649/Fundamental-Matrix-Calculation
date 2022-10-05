@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+worksheet07_solution.ipynb
+worksheet08_solution.ipynb
